@@ -1,0 +1,1 @@
+You found it! A deep_trench has been discovered, but the map is encrypted. Go to the deep_trench directory and find the one file that mentions the secret word 'treasure'.
